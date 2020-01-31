@@ -39,3 +39,47 @@ body {
 /* 
     Most of the CSS magic  happens with the transform property
  */
+
+
+/* .nav-items:hover,
+.nav-logo:hover {
+    color: var(--text-pry);
+} */
+
+
+/* For divs */
+
+
+/* Eyes follow
+
+.eyes {
+    transform: translateY(-70%);
+    width: 100%;
+    text-align: center;
+}
+
+.eye {
+    width: 65px;
+    height: 35px;
+    background: var(--bg-pry);
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid #e0ebe8;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+.ball {
+    width: 1.5rem;
+    height: 1.5rem;
+    padding: 0.1rem;
+    background: var(--text-pry);
+    position: absolute;
+    border: 8px solid var(--act-clr);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ */
